@@ -14,3 +14,7 @@ metrics:
 plots:
 - dvclive/plots/metrics:
     x: step
+artifacts:
+  model_project_a:
+    path: model.npy
+    type: model
