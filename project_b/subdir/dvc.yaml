@@ -1,0 +1,5 @@
+artifacts:
+  test-model:
+    path: model.txt
+    type: model
+
